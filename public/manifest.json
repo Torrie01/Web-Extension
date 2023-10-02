@@ -3,8 +3,7 @@
     "version": "1.0.0",
     "name": "HelpMeOut",
     "action":{
-        "default_popup": "index.html",
-        "default_icons": "Layer2.png"
+        "default_popup": "index.html"
     },
     "permissions":[
         "scripting"
